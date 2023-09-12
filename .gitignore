@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+db.sqlite3
+astra_artifacts/*
+notes*.txt
+.env
